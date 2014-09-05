@@ -29,7 +29,7 @@ public class Cyclometer {
         double distanceTrip1, distanceTrip2, totalDistance;
         //Above define variables for the distance of trip 1,
         //the distance of trip 2, and total distance of trip 1
-        //and 2 combined as floating-point numbers
+        //and 2 combined as double floating-point numbers
         
         //Print out length of each trip 1 and trip 2 in minutes
         //along with the number of counts
