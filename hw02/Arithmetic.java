@@ -7,6 +7,12 @@
 //  Total cost of each kind of item; sales tax for that total cost
 //  Total cost of purchases (before tax)
 //  Total actually paid for this transaction, including sales tax
+//
+//This program calculates the total cost of a Walmart transaction
+//Values for our input variables are declared and defined
+//Variables are defined
+//Calculations are made
+//Output is printed out for the calculations
 
 //Define class
 public class Arithmetic{
