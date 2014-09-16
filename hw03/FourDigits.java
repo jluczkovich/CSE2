@@ -2,6 +2,9 @@
 //CSE2
 //9/14/14
 //
+//hw03
+//FourDigits
+//
 //This program calculates the four digits after a decimal point
 //It takes user input and performs several calculations to
 //derive this answer

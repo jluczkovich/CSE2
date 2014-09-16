@@ -2,10 +2,12 @@
 //CSE2
 //9/14/14
 //
+//hw03
+//Root
+//
 //This program approximates the cube of a user input
 //value. 
-
-
+//
 
 
 //import scanner

@@ -11,6 +11,7 @@
 //miles per hour travelled
 //
 
+
 //Import scanner
 import java.util.Scanner;
 
