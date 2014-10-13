@@ -26,6 +26,8 @@ public class WelcomeClass {
         System.out.println("If I could spend everyday fishing on the Saint Lawrence River");
         System.out.println("like I did several years ago, I would be a happy man.");
         
+        int a = 100;
+        System.out.println( (char) a);
         //test
     }
 }
